@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>1.0.0.3</version>
-  <url>http://dayzrating.pro/launcher.zip</url>
+  <url>http://dayzrating.pro/launcher_1003.zip</url>
   <changelog></changelog>
-  <mandatory>false</mandatory>
+  <mandatory>true</mandatory>
 </item>
